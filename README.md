@@ -7,7 +7,6 @@ This repository contains a collection of Java programs aimed at helping me and m
 ```bash  
 📦 java-practical-exam-prep
 ├── 📂 SamplePrograms
-├── 📂 OOPSPrograms
 ├── 📂 AppletPrograms
 ├── 📂 ODBCPrograms
 └── README.md

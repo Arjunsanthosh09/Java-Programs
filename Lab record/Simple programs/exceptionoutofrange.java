@@ -14,7 +14,6 @@ public class exceptionoutofrange {
         try {
             DataInputStream in=new DataInputStream(System.in);
             System.out.print("Enter a number: ");
-            @SuppressWarnings("deprecation")
             int num = Integer.parseInt(in.readLine());
 
             if (num < 10 || num > 50) {

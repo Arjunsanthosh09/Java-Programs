@@ -1,3 +1,5 @@
+// Create a menu based application program which accepts details of an employee,does some operation and to display details from the database in GUI.
+
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.*;

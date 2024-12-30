@@ -1,4 +1,4 @@
-
+// Create a GUI which accepts details of a student and to store them in a database.
 
 import java.sql.*;
 import javax.swing.*;

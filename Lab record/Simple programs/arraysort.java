@@ -3,7 +3,6 @@
 import java.io.DataInputStream;
 import java.util.Arrays;
 public class arraysort {
-    @SuppressWarnings("deprecation")
     public static void main(String[] args) {
         DataInputStream in=new DataInputStream(System.in);
         int n;

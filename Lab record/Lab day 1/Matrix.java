@@ -19,7 +19,6 @@ public class Matrix {
         matrix = new int[rows][cols];
     }
 
-    @SuppressWarnings("deprecation")
     public void readMatrix() {
         DataInputStream in = new DataInputStream(System.in);
         System.out.println("Enter the elements of the matrix:");
@@ -70,7 +69,6 @@ public class Matrix {
         return result;
     }
 
-    @SuppressWarnings("deprecation")
     public static void main(String[] args)  {
         DataInputStream in = new DataInputStream(System.in);
         try{

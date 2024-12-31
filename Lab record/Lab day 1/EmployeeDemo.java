@@ -48,8 +48,7 @@ class Manager extends Employee {
 }
 
 public class EmployeeDemo {
-    @SuppressWarnings("deprecation")
-    public static void main(String[] args) {
+    public static void main(String ar[]) {
         DataInputStream in = new DataInputStream(System.in);
         try {
             System.out.print("Enter Officer Name: ");
